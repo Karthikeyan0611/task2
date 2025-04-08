@@ -1,3 +1,4 @@
+Task 2: Data Visualization and Storytelling
 📌 Objective
 The objective of this task is to create meaningful and insightful visualizations using the Superstore.csv dataset to uncover business insights, identify trends, and tell a compelling data story using Tableau / Power BI.
 
